@@ -317,7 +317,7 @@ h6 {
   #hero{
     width: 100%;
     height: 100vh;
-    background: url("/images/userAsset/hero\ -\ Copy.jpg") left center;
+    background: url("/images/userAsset/hero\ -\ Copy.jpg") right center;
     background-size: cover;
     background-repeat: no-repeat;
   }
